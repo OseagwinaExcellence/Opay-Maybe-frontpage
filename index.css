@@ -1,12 +1,3 @@
-@font-face {
-     src: url("./Tagesschrift-Regular.ttf");
-     font-family: "Tagesschrif";
-}
-
-body {
-     font-family: "Tagesschrif";
-     background-color: black;
-}
 
 nav {
      list-style: none;

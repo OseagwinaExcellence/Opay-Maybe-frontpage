@@ -305,3 +305,35 @@ header {
     border-radius: 10px;
     transition: 1s;
 }
+
+.shape-4:hover {
+    background-color: rgb(58, 15, 15);
+    height: 70px;
+    width: 70px; 
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.shape-3:hover {
+    background-color: rgb(58, 15, 15);
+    height: 70px;
+    width: 70px; 
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.shape-2:hover {
+    background-color: rgb(58, 15, 15);
+    height: 70px;
+    width: 70px; 
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.shape-1:hover {
+    background-color: rgb(58, 15, 15);
+    height: 70px;
+    width: 70px; 
+    border-radius: 10px;
+    transition: 1s;
+}

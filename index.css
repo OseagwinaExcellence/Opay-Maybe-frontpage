@@ -274,5 +274,7 @@ header {
 
 /*Shape*/
 .shape {
-     
+    background-color: whitesmoke;
+    height: 10px;
+    width: 100px; 
 }

@@ -264,6 +264,12 @@ header {
      height: 200px;
 }
 
+.column-2 {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+}
+
 #section-div-3:hover {
      background-color: rgb(100, 05, 95);
      border: 4px solid white;

@@ -205,7 +205,6 @@ header {
 
 .red-column {
      font-size: large;
-     border-bottom: 1px wheat solid;
 }
 
 .red-column:hover {
@@ -216,7 +215,6 @@ header {
 }
 .red-column-2 {
    font-size: large;
-     border-bottom: 1px wheat solid;
 }
 
 .red-column-2:hover {
@@ -228,7 +226,6 @@ header {
 
 .red-column-3 {
      font-size: large;
-     border-bottom: 1px wheat solid;
 }
 
 .red-column-3:hover {
@@ -239,7 +236,7 @@ header {
 }
 .red-column-4 {
      font-size: large;
-     border-bottom: 1px wheat solid;
+     
 }
 
 .red-column-4:hover {
@@ -250,7 +247,6 @@ header {
 
 .red-column-5 {
    font-size: large;
-     border-bottom: 1px wheat solid;
 }
 
 .red-column-5:hover {

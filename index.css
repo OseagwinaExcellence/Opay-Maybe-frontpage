@@ -300,40 +300,40 @@ header {
 
 .shape-5:hover {
     background-color: rgb(58, 15, 15);
-    height: 70px;
-    width: 70px; 
+    height: 80px;
+    width: 80px; 
     border-radius: 10px;
     transition: 1s;
 }
 
 .shape-4:hover {
     background-color: rgb(58, 15, 15);
-    height: 70px;
-    width: 70px; 
+    height: 80px;
+    width: 80px; 
     border-radius: 10px;
     transition: 1s;
 }
 
 .shape-3:hover {
     background-color: rgb(58, 15, 15);
-    height: 70px;
-    width: 70px; 
+    height: 80px;
+    width: 80px; 
     border-radius: 10px;
     transition: 1s;
 }
 
 .shape-2:hover {
     background-color: rgb(58, 15, 15);
-    height: 70px;
-    width: 70px; 
+    height: 80px;
+    width: 80px; 
     border-radius: 10px;
     transition: 1s;
 }
 
 .shape-1:hover {
     background-color: rgb(58, 15, 15);
-    height: 70px;
-    width: 70px; 
+    height: 80px;
+    width: 80px; 
     border-radius: 10px;
     transition: 1s;
 }

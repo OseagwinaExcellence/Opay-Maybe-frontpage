@@ -10,17 +10,17 @@ body {
 }
 /*Input Field*/
 .input-field {
-     display: block;
-     margin-left: auto;
-     margin-right: auto;
-     width: 200px;
-     margin-bottom: 10px;
+     margin: 50px 0px 20px 0px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
 }
 
 .makeshift-footer {
      display: flex;
-     margin-left:
-
+     flex-direction: row;
+     justify-content: center;
 }
 
 .container {
@@ -28,6 +28,11 @@ body {
      margin-top: 200px;
      border-radius: 40px;
      border: 2px white solid;
+     width: 700px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
 }
 
 label {
@@ -40,7 +45,8 @@ label {
      flex-direction: row;
      justify-content: center;
      align-items: center;
-     padding-bottom: 30px;
+     padding-top: 10px;
+     padding-bottom: 50px;   
     
 }
 
@@ -59,7 +65,16 @@ label {
 
 .input-field > input {
      width: 400px;
-     height: 30px;
+     height: 40px;
      border-radius: 100px;
      padding: 0px 15px 0px 15px;
+     border: 3px solid black;
+}
+
+.checkbox {
+     padding-right: 40px;
+}
+
+.forgotten-password {
+     padding-left: 40px;
 }

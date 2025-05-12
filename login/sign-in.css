@@ -1,0 +1,10 @@
+@font-face {
+      src: url("./fonts/Underdog-Regular.ttf");
+     font-family: "Underdog";
+}
+
+body {
+     font-family: "Underdog";
+     color: white;
+     background-color: black;
+}

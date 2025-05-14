@@ -351,13 +351,14 @@ footer {
 
 a {
      color: rgb(43, 34, 34);
+     background-color: aqua;
 }
 
 a:hover {
      color: black;
  }
 
-.login-page {
+button {
      background-color: aqua;
      font-size: 10px;
      border-radius: 10px;
@@ -366,7 +367,7 @@ a:hover {
      border: 2px solid black;
 }
 
-.login-page:hover {
+button:hover {
      background-color: aqua;
      font-size: large;
      font-weight: bold;

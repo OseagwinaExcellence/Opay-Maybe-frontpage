@@ -30,7 +30,7 @@ body {
 
 /*input and label*/
 input {
-     width: 500px;
+     width: 350px;
      height: 37px;
      padding: 0px 10px;
      border-radius: 10px;
@@ -42,6 +42,16 @@ label {
      font-size: large;
      font-weight: bold;
      font-style: oblique;
+     padding-right: 295px;
+}
+
+.pwd-label {
+     margin-top: 19px;
+}
+
+.re-enter-pwd-label {
+     padding-right: 210px;
+     margin-top: 19px;
 }
 
 /*input hover*/
@@ -76,10 +86,9 @@ input:hover {
 }
 
 .signup-btn {
-     padding: ;
-     width: 300px;
-     height: 40px;
-     font-size: large;
+     padding: 10px 0px 10px 0px;
+     width: 150px;
+     font-size: 13px;
      font-weight: bold;
      border-radius: 10px;
      border: 1px solid white;
@@ -89,4 +98,16 @@ input:hover {
 
 a {
      color: beige;
+}
+
+/*Button hover */
+.signup-btn:hover {
+     width: 190px;
+     padding: 15px 0px 15px 0px;
+     font-size: 14px;
+     font-weight: bold;
+     border-radius: 10px;
+     border: 1px solid white;
+     background-color: rgb(158, 44, 44);
+     
 }

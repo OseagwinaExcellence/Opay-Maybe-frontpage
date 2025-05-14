@@ -5,7 +5,7 @@
 
 body {
      font-family: "Underdog";
-     color: rgb(227, 221, 221);
+     color: rgb(255, 254, 254);
      background-color: black;
 }
 
@@ -31,7 +31,7 @@ body {
 /*input and label*/
 input {
      width: 500px;
-     height: 35px;
+     height: 37px;
      padding: 0px 10px;
      border-radius: 10px;
      border: 1px solid black;
@@ -49,7 +49,7 @@ label {
 input:hover {
      background-color: black;
      color: white;
-     transition: 1s;
+     transition: 0.5s;
 }
 
 /*footer*/

@@ -10,25 +10,83 @@ body {
 }
 
 .container{
-     display: block;
-     margin: 100px auto 0px auto;
-     width: 400px;
+     background-color: aqua;
+     width: 600px;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 100px;
+     height: auto;
+     border-radius: 20px;
+     border: 2px solid white;
 }
+
+.input-field {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     padding-top: 50px;
+}
+
 /*input and label*/
 input {
-     width: 400px;
-     height: 30px;
+     width: 500px;
+     height: 35px;
+     padding: 0px 10px;
+     border-radius: 10px;
+     border: 1px solid black;
+
+}
+
+label {
+     font-size: large;
+     font-weight: bold;
+     font-style: oblique;
+}
+
+/*input hover*/
+
+input:hover {
+     background-color: black;
+     color: white;
+     transition: 1s;
 }
 
 /*footer*/
 .check-box {
-     width: 10px;
+     width: 15px;
 }
 
 .makeshift-footer {
      display: flex;
-     width: auto;
-     justify-content: space-between;
-     align-items: center;
+     flex-direction: row;
+     justify-content: space-around;
 }
 
+.forgotten-password {
+     padding-top: 24px;
+}
+
+
+/*Button*/
+.btn-div {
+     text-align: center;
+     padding-bottom: 50px;
+     padding-top: 30px;
+}
+
+.signup-btn {
+     padding: ;
+     width: 300px;
+     height: 40px;
+     font-size: large;
+     font-weight: bold;
+     border-radius: 10px;
+     border: 1px solid white;
+     background-color: rgb(35, 29, 29);
+     
+}
+
+a {
+     color: beige;
+}

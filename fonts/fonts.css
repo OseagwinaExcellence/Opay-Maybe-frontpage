@@ -1,0 +1,21 @@
+@font-face {
+     src: url(./Tagesschrift-Regular.ttf);
+     font-family: "Tagesschrift";
+}
+
+.home-1 {
+     background-color: black;
+     font-family: "Tagesschrift";
+}
+
+@font-face {
+     src: url(../fonts/Underdog-Regular.ttf);
+     font-family: "Underdog";
+}
+
+.login-css {
+     color: rgb(255, 254, 254);
+     background: linear-gradient(brown, black, brown);
+     font-family: "Underdog";
+}
+

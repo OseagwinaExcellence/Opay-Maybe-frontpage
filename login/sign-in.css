@@ -1,14 +1,3 @@
-@font-face {
-      src: url("/Login/fonts/Underdog-Regular.ttf");
-     font-family: "Underdog";
-}
-
-body {
-     font-family: "Underdog";
-     color: rgb(255, 254, 254);
-     background: linear-gradient(brown, black, brown);
-}
-
 .container{
      background-color: aqua;
      width: 600px;
